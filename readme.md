@@ -13,7 +13,7 @@ This project uses a Teachable Machines model to perform face recognition for log
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sandjio/face_recognition_login.git
 cd face_recognition_login
 
 2.  Set Up a Virtual Environment (optional but recommended)
