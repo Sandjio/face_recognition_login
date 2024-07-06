@@ -1,4 +1,4 @@
-# Face Recognition Login with Django and Teachable Machine
+# Face Recognition Login with Django and Teachable Machine By SANDJIO WAGNE EMMANUEL of software engineering
 
 This project uses a Teachable Machines model to perform face recognition for login authentication. Users authenticate with their camera to log in, and if the face is recognized, they are redirected to a success page.
 
